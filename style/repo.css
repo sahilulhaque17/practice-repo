@@ -1,0 +1,12 @@
+.golpo{
+    color: brown;
+    background-color:red;
+    text-shadow: white;
+    border: 400px;
+    box-sizing: border-box;
+}
+li{
+    font-style: italic;
+    background-color: aquamarine;
+    text-box: 100px;
+}
